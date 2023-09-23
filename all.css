@@ -113,7 +113,7 @@ p {
   background-repeat: no-repeat;
 }
 .homepage .title {
-  padding-top: 220px;
+  padding-top: 200px;
   display: flex;
   margin-bottom: 60px;
   position: relative;
@@ -250,11 +250,11 @@ p {
 .homepage .ship {
   position: absolute;
   right: -24%;
-  top: 35%;
+  top: 32%;
 }
 @media (max-width: 992px) {
   .homepage .ship {
-    top: 24%;
+    top: 20%;
   }
 }
 @media (max-width: 768px) {
