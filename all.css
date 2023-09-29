@@ -125,7 +125,6 @@ p {
 }
 .homepage .title .title-text {
   position: relative;
-  font-family: round;
   font-size: 48px;
   letter-spacing: 8px;
 }
@@ -397,7 +396,6 @@ p {
 }
 .vtuber-menu .vtuber-menu-name {
   font-size: 22px;
-  font-family: round;
   text-align: center;
 }
 @media (max-width: 768px) {
@@ -512,7 +510,6 @@ p {
   }
 }
 .vtuber .vtuber-name {
-  font-family: round;
   font-size: 40px;
   line-height: 120%;
   margin-bottom: 20px;
@@ -618,7 +615,6 @@ p {
   }
 }
 .modal-vtuber .title {
-  font-family: round;
   font-size: 40px;
   padding-bottom: 8px;
   border-bottom: 3px solid;
