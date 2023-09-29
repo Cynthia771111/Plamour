@@ -709,19 +709,19 @@ p {
   }
 }
 .modal-news .news-image-1 {
-  background-image: url(img/news_image_1.png);
+  background-image: url(img/news_1.png);
 }
 .modal-news .news-image-2 {
-  background-image: url(img/news_image_2.png);
+  background-image: url(img/news_2.png);
 }
 .modal-news .news-image-3 {
-  background-image: url(img/news_image_3.png);
+  background-image: url(img/news_3.png);
 }
 .modal-news .news-image-4 {
-  background-image: url(img/news_image_4.png);
+  background-image: url(img/news_4.png);
 }
 .modal-news .news-image-5 {
-  background-image: url(img/news_image_5.png);
+  background-image: url(img/news_5.png);
 }
 .modal-news .content {
   padding: 0 32px;
