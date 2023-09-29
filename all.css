@@ -710,19 +710,19 @@ p {
   }
 }
 .modal-news .news-image-1 {
-  background-image: url(img/news-image-1.png);
+  background-image: url(img/news_image_1.png);
 }
 .modal-news .news-image-2 {
-  background-image: url(img/news-image-2.png);
+  background-image: url(img/news_image_2.png);
 }
 .modal-news .news-image-3 {
-  background-image: url(img/news-image-3.png);
+  background-image: url(img/news_image_3.png);
 }
 .modal-news .news-image-4 {
-  background-image: url(img/news-image-4.png);
+  background-image: url(img/news_image_4.png);
 }
 .modal-news .news-image-5 {
-  background-image: url(img/news-image-5.png);
+  background-image: url(img/news_image_5.png);
 }
 .modal-news .content {
   padding: 0 32px;
@@ -1018,7 +1018,6 @@ footer .note {
   background-image: linear-gradient(156deg, #30FAEA 10%, #FAD930 10%, #FAD930 80%, #721060 80%, #721060 95%, #F93079 95%);
 }
 .banner .title {
-  font-family: round;
   font-size: 56px;
   margin: 0 40px;
 }
